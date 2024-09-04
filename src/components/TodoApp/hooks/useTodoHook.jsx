@@ -21,7 +21,7 @@ export const useTodoHook = () => {
         const nuevasTareas = tareas.filter((_, index) => index !== indice)
         setTareas(nuevasTareas)
     }
-
+//holaaaaaaaaaaaaaaaaaaaaaaaaaa
     return {
         handleOnChange,
         borrarTarea,
